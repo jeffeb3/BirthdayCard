@@ -1,8 +1,9 @@
 # Nerdy Birthday Card
 
-This page will soon be updated!
+Welcome Nerds and Happy Birthday!  
 
 ## YouTube Demonstration: https://youtu.be/MKEbq2IIcLI
+## DIY Kit Tutorial: https://youtu.be/2y0sbJ5iSTA
 
 ## PURCHASE A CARD
 ### FULLY ASSEMBLED VERSION
