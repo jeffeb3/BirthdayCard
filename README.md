@@ -1,6 +1,6 @@
 # Nerdy Birthday Card
 
-Welcome Nerds and Happy Birthday!  
+Welcome Nerds and Happy Birthday!  You are visiting this page because some awesome person gave you a Nerdy Birthday Card :) 
 
 ## YouTube Demonstration: https://youtu.be/MKEbq2IIcLI
 ## DIY Kit Tutorial: https://youtu.be/2y0sbJ5iSTA
