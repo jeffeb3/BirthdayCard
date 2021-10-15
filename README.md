@@ -1,6 +1,7 @@
 # Nerdy Birthday Card
 
 Welcome Nerds and Happy Birthday!  You are visiting this page because some awesome person gave you a Nerdy Birthday Card :) 
+Use the switch to turn on your Nerdy Birthday Card.  It will display "Happy Birthday!" (or a custom message if ordered) and play a song.  After the song is complete, the display will tell you to make a wish and blow out the candle.  Blowing on the candle (yellow LED/microphone) will extinguish the candle.  Finally, the display says "Have a Wonderful Year!"  You can also write the name of the birthday person on the back.  A fine tip sharpie marker works best.
 
 ## YouTube Demonstration: https://youtu.be/MKEbq2IIcLI
 ## DIY Kit Tutorial: https://youtu.be/2y0sbJ5iSTA
