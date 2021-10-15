@@ -1,1 +1,1 @@
-Pictures coming soon!
+Pictures!
